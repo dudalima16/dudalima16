@@ -9,4 +9,5 @@
 
 * Estudando Analise e Desenvolvimento de Sistemas na Uninter (EAD)
 * Estou em busca de uma oportunidade da área de Dev
-* Conhecimento em Linux, Shell, JS, Cloud e Cultura Devops
+* Conhecimento em Linux, Shell, JS, Node.js e Python
+* 
