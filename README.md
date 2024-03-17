@@ -8,6 +8,5 @@
 ## Sobre 🤭
 
 * Estudando Analise e Desenvolvimento de Sistemas na Uninter (EAD)
-* Estou em busca de uma oportunidade da área de Dev
+* Busco me desenvolver na área de Desenvolvimento Backend
 * Conhecimento em Linux, Shell, JS, Node.js e Python
-* 
