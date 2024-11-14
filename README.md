@@ -9,4 +9,4 @@
 
 * Estudando Analise e Desenvolvimento de Sistemas na Uninter (EAD)
 * Busco me desenvolver na área de Desenvolvimento Backend
-* Conhecimento em Linux, JS, Node.js e Python
+* Conhecimento Python, Golang, APIs e SQL
