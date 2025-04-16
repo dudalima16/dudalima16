@@ -8,5 +8,5 @@
 ## Sobre 🤭
 
 * Estudando Analise e Desenvolvimento de Sistemas na Uninter (EAD)
-* Busco me desenvolver na área de Desenvolvimento Backend
-* Conhecimento Python, Golang, APIs e SQL
+* Busco me desenvolver na área de Análise de Dados
+* Conhecimento Python, Excel, PBI e SQL
