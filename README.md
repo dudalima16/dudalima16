@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou a Duda 🤙
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-lima/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-y-lima/)
 
 ---
 
@@ -8,7 +8,11 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Uninter (EAD)** e atuo como **Gestora de Automação e IA**, focada em criar soluções inteligentes para otimizar processos e gerar valor através da tecnologia.
 
-Tenho experiência com automações, análise de dados e integração de sistemas, sempre buscando unir **tecnologia + eficiência + estratégia**.
+Sou cofundadora da **Gestão Flow**, empresa onde unimos **automação, inteligência artificial e marketing estratégico** para ajudar negócios a crescerem de forma escalável e eficiente.
+
+Na Gestão Flow:
+- 🤖 Eu atuo com **Automação e Inteligência Artificial**, desenvolvendo fluxos, integrações e soluções inteligentes  
+- 📈 **Fernanda** atua com **Marketing**, focada em **estratégia, tráfego pago e posicionamento digital**
 
 ---
 
@@ -32,9 +36,9 @@ Tenho experiência com automações, análise de dados e integração de sistema
 
 - Automação de processos  
 - Inteligência Artificial aplicada a negócios  
-- Análise de dados e tomada de decisão  
+- Marketing orientado a dados  
 - Desenvolvimento de soluções escaláveis  
 
 ---
 
-✨ *Sempre aprendendo, testando e automatizando.*  
+✨ *Transformando processos em fluxos inteligentes.*  
