@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou a Duda 🤙
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-lima-027a08195/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-lima/)
 
 ---
 
@@ -14,10 +14,17 @@ Tenho experiência com automações, análise de dados e integração de sistema
 
 ## 🧠 Tecnologias & Ferramentas
 
+### 💻 Tecnologias
 - 🐍 **Python** — automações, scripts e análise de dados  
 - 🗄️ **SQL** — consultas, modelagem e organização de dados  
 - 📊 **Power BI** — dashboards e visualização de dados  
 - 📈 **Excel** — análise, relatórios e automações  
+
+### 🤖 Automação & IA
+- 🔁 **n8n** — automação de fluxos e integrações  
+- 💬 **ManyChat** — automação de atendimento e funis de conversa  
+- 🧠 **GPTMaker** — criação e gestão de assistentes com IA  
+- 🔌 **API Oficial (OpenAI)** — integrações avançadas com IA generativa  
 
 ---
 
