@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Uninter (EAD)** e atuo como **Gestora de Automação e IA**, focada em criar soluções inteligentes para otimizar processos e gerar valor através da tecnologia.
+Formada em **Análise e Desenvolvimento de Sistemas** pela **Uninter (EAD)** e atuo como **Gestora de Automação e IA**, focada em criar soluções inteligentes para otimizar processos e gerar valor através da tecnologia.
 
 Sou cofundadora da **Gestão Flow**, empresa onde unimos **automação, inteligência artificial e marketing estratégico** para ajudar negócios a crescerem de forma escalável e eficiente.
 
